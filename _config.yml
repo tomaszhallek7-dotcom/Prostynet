@@ -1,0 +1,8 @@
+theme: slate
+title: Prostynet - Edukacja Technologiczna Dla Wszystkich
+description: Tutoriale i poradniki dla osób wykluczonych cyfrowo
+show_downloads: true
+google_analytics: 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
